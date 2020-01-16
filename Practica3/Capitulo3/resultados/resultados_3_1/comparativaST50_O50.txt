@@ -1,0 +1,3 @@
+Fichero1 obtiene: 2%
+
+Fichero2 obtiene: 98%
